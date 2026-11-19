@@ -29,6 +29,11 @@ class MyComparator implements Comparator<Integer>{
 }
 public class Main {
 	
+	public void Show()
+	{
+		System.out.println("Hello Shubham....");
+	}
+	
 	public static void main(String[] args)
 	{
 //		int[] arr = new int[10];
